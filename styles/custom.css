@@ -1,0 +1,48 @@
+/*
+  You can add your own CSS in this file, this code will overwrite main stylesheet file.
+*/
+
+/*
+@import url(http://fonts.googleapis.com/css?family=example);
+*/
+
+/*
+If you want to change fonts decomentate and overwrite with your font name
+*/
+
+/*
+body {
+	font-family: 'fontName';
+}
+*/
+/*
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'fontName';
+}
+*/
+/*
+p {
+	font-family: 'fontName';
+}
+*/
+/*
+span {
+	font-family: 'fontName';
+}
+*/
+/*
+input, textarea, select, label, small {
+	font-family: 'fontName';
+}
+*/
+
+
+/* 
+  And some media queries for you
+*/
+@media screen and (max-width: 1024px) {
+
+}
+@media screen and (max-width: 768px) {
+  
+}
